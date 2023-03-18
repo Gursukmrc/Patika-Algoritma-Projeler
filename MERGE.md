@@ -4,6 +4,7 @@ Proje 2
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
+
 CEVAP: 
 [16,21,11,8,12,22] O(nlogn)
 {16,21,11} {8,12,22} 
